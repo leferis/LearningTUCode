@@ -1,0 +1,11 @@
+C:\Users\Otas\source\repos\TULearning\TULearning\bin\Debug\TULearning.exe.config
+C:\Users\Otas\source\repos\TULearning\TULearning\bin\Debug\TULearning.exe
+C:\Users\Otas\source\repos\TULearning\TULearning\bin\Debug\TULearning.pdb
+C:\Users\Otas\source\repos\TULearning\TULearning\obj\Debug\TULearning.csprojAssemblyReference.cache
+C:\Users\Otas\source\repos\TULearning\TULearning\obj\Debug\TULearning.Form1.resources
+C:\Users\Otas\source\repos\TULearning\TULearning\obj\Debug\TULearning.Properties.Resources.resources
+C:\Users\Otas\source\repos\TULearning\TULearning\obj\Debug\TULearning.csproj.GenerateResource.cache
+C:\Users\Otas\source\repos\TULearning\TULearning\obj\Debug\TULearning.csproj.CoreCompileInputs.cache
+C:\Users\Otas\source\repos\TULearning\TULearning\obj\Debug\TULearning.exe
+C:\Users\Otas\source\repos\TULearning\TULearning\obj\Debug\TULearning.pdb
+C:\Users\Otas\source\repos\TULearning\TULearning\obj\Debug\TULearning.Question.resources
